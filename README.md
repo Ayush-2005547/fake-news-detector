@@ -98,12 +98,14 @@ The application is live and accessible at:
 
 ```
 .
-├── app.py                 # Streamlit app script
-├── requirements.txt       # Dependencies
-├── model.safetensors      # Trained BERT model
-├── config.json            # Model configuration
-├── .gitattributes         # Git LFS config
-├── README.md              # Project documentation
+├── app.py                  # Streamlit app script
+├── requirements.txt        # Dependencies
+├── model.safetensors       # Trained BERT model
+├── config.json             # Model configuration
+├── DistilBert_based_classifier.ipynb  # Jupyter notebook with model building and analysis
+├── .gitattributes          # Git LFS config
+├── README.md               # Project documentation
+
 ```
 
 ---
