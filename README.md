@@ -90,7 +90,7 @@ streamlit run app.py
 ## Deployment
 
 The application is live and accessible at:
-**Streamlit Cloud URL**: [[https://fake-news-detector.streamlit.app](https://fake-news-detector.streamlit.app) ](https://fakenews-bert-detector.streamlit.app/)
+**Streamlit Cloud URL**: (https://fakenews-bert-detector.streamlit.app/)
 
 ---
 
@@ -117,7 +117,7 @@ This project demonstrates a practical application of NLP and deep learning for m
 ## Author
 
 **Ayush Ahirwar**
-GitHub: [[https://github.com/yourusername](https://github.com/yourusername)](https://github.com/Ayush-2005547)
+GitHub: ((https://github.com/Ayush-2005547))]
 
 ---
 
