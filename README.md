@@ -117,7 +117,7 @@ This project demonstrates a practical application of NLP and deep learning for m
 ## Author
 
 **Ayush Ahirwar**
-GitHub: ((https://github.com/Ayush-2005547))]
+GitHub:[ ((https://github.com/Ayush-2005547))]](https://github.com/Ayush-2005547)
 
 ---
 
