@@ -33,6 +33,7 @@ In an age where misinformation spreads rapidly, distinguishing between real and 
 1. **Dataset Selection**
 
    * Fake news datasets sourced from Kaggle.
+   * Data Source`:(https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset/data)
 
 2. **Data Preprocessing**
 
