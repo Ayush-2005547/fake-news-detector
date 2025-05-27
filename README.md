@@ -113,7 +113,7 @@ The application is live and accessible at:
 
 ## Conclusion
 
-This project demonstrates a practical application of NLP and deep learning for media verification. By utilizing DistilBERT and Streamlit, it delivers a scalable and user-friendly tool to detect fake news. This can be a valuable addition to any data science portfolio and serves as a great conversation starter in interviews.
+This project demonstrates a practical application of NLP and deep learning for media verification. By utilizing DistilBERT and Streamlit, it delivers a scalable and user-friendly tool to detect fake news. 
 
 ---
 
