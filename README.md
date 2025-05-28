@@ -38,6 +38,7 @@ In an age where misinformation spreads rapidly, distinguishing between real and 
 2. **Data Preprocessing**
 
    * Tokenization and normalization using Hugging Face's tokenizer.
+   * [DistilBert_based_classifier]([https://colab.research.google.com/drive/1U7T77qy7PLXN8HC_oV1-dKDObJN-GChW?usp=sharing]))
 
 3. **Model Training**
 
