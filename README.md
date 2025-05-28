@@ -20,7 +20,7 @@ In an age where misinformation spreads rapidly, distinguishing between real and 
 
 * **Programming Language**: Python 3.x
 * **NLP Libraries**: Hugging Face Transformers, NLTK
-* **Modeling**: DistilBERT (fine-tuned)
+* **Modeling**: DistilBERT (fine-tuned) [DistilBert_based_classifier]([URL_HERE](https://colab.research.google.com/drive/1U7T77qy7PLXN8HC_oV1-dKDObJN-GChW?usp=sharing))
 * **Data Handling**: Pandas, NumPy
 * **Model Deployment**: Streamlit, Streamlit Cloud
 * **Version Control**: Git, GitHub
