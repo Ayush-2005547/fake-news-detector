@@ -64,7 +64,7 @@ In an age where misinformation spreads rapidly, distinguishing between real and 
 1. **Clone the Repository**
 
 ```bash
-git clone [https://github.com/yourusername/fake-news-detector-bert](https://github.com/Ayush-2005547/fake-news-detector).git
+git clone https://github.com/Ayush-2005547/fake-news-detector.git
 cd fake-news-detector
 ```
 
